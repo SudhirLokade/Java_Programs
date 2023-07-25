@@ -1,4 +1,4 @@
-//To remove the vowels from the given string
+//To convert the vowels in the upper case 
 
 import java.util.Scanner;
 class Remove_vowels
